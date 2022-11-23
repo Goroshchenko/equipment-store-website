@@ -1,0 +1,22 @@
+header {
+    text-align: center;    
+}
+h1 {
+    text-align: center;    
+}
+h2 {
+    text-align: center;   
+    }
+p {
+    text-align: center;
+}
+footer {
+   text-align: right; 
+}
+address{
+    text-align: center;
+}
+img {
+    margin: auto;
+    display: block;
+    width: 600px;height: 400px;}
